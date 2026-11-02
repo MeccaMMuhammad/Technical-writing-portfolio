@@ -1,0 +1,15 @@
+finding_id,finding,reference_map,evidence_id,assessment_status
+F-01,Privileged MFA is not uniformly phishing resistant,"NIST SP 800-63B-4; NIST SP 800-53 IA-2, AC-6; CSF PR.AA-03",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-02,Leaver disablement is delayed,"NIST SP 800-53 AC-2, PS-4; CSF PR.AA-01, PR.AA-05",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-03,Excessive privileges and separation-of-duties conflicts,"NIST SP 800-53 AC-3, AC-5, AC-6; CSF PR.AA-05",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-04,Orphaned and unowned accounts,"NIST SP 800-53 AC-2, IA-4; CSF PR.AA-01",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-05,Application recertification lacks approvals,"NIST SP 800-53 AC-2, AC-6, CA-7; CSF PR.AA-05",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-06,Service identities and API tokens lack unified safeguards,"NIST IR 8587 (2026); SP 800-63C-4; AC-6, IA-5",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-07,Inadequate centralized authentication event review,"NIST SP 800-53 AU-2, AU-6, AU-12, SI-4; CSF DE.CM",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-08,Exception and break-glass accounts are not governed consistently,"NIST SP 800-53 AC-2, AC-6, IA-5; CSF PR.AA-03",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-09,Joiner and mover approvals lack role-change evidence,"NIST SP 800-53 AC-2, AC-6, PS-5; CSF PR.AA-01, PR.AA-05",EV-01/02/03 (synthetic),Simulated observation; not independently tested
+F-10,Teams external federation,NIST AC-3; Microsoft Teams admin,TEAMS/ENDPT/ENTRA-F-10,OPEN—NOT TESTED
+F-11,Teams external control,NIST AC-3/CM-7; Microsoft meeting policy,TEAMS/ENDPT/ENTRA-F-11,OPEN—NOT TESTED
+F-12,Endpoint remote assistance,NIST SI-3/SI-4; Microsoft Defender,TEAMS/ENDPT/ENTRA-F-12,OPEN—NOT TESTED
+F-13,IdP sessions and consent,NIST IA-2/AU-6; IR8587,TEAMS/ENDPT/ENTRA-F-13,OPEN—NOT TESTED
+F-14,Help-desk verification,NIST AT-2/IR-4,TEAMS/ENDPT/ENTRA-F-14,OPEN—NOT TESTED

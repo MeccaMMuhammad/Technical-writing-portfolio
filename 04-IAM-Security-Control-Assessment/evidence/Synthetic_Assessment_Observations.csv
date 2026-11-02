@@ -1,0 +1,10 @@
+observation_id,finding_id,synthetic_example,status
+OBS-01,F-01,8 of 12 privileged identities showed phishing-resistant MFA; four relied on weaker factors in the synthetic baseline (EV-01).,NOT VERIFIED — FICTIONAL
+OBS-02,F-02,5 of 18 completed termination tickets in the sample lacked evidence of access removal by the approved company target (EV-03).,NOT VERIFIED — FICTIONAL
+OBS-03,F-03,Nine sampled user-to-role combinations include permissions beyond the sample role matrix; two could both request and approve records (EV-02).,NOT VERIFIED — FICTIONAL
+OBS-04,F-04,Seven active identities have absent or uncertain business owners in the fictional inventory (EV-01).,NOT VERIFIED — FICTIONAL
+OBS-05,F-05,Two of four selected business-critical applications do not contain dated owner sign-offs for the last simulated review (EV-02).,NOT VERIFIED — FICTIONAL
+OBS-06,F-06,Three of ten synthetic nonhuman identities lack rotation evidence; token issuer/audience validation requirements are undocumented for one integration (EV-03).,NOT VERIFIED — FICTIONAL
+OBS-07,F-07,Events remain in multiple systems; no documented correlation for disabled-account sign-ins or privileged role changes (EV-03).,NOT VERIFIED — FICTIONAL
+OBS-08,F-08,Two emergency accounts lack a current owner-review record; test-use and post-use review are not documented (EV-03).,NOT VERIFIED — FICTIONAL
+OBS-09,F-09,Three of twelve sample role changes lack a clear old-role removal decision and signed request justification (EV-03).,NOT VERIFIED — FICTIONAL

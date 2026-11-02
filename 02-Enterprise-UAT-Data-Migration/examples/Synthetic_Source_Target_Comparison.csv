@@ -1,0 +1,5 @@
+Entity,Source system,Source ID,Source field,Source value,Mapping ID,Target field,Observed target,Expected target,Status
+Vendor,LEG-A,VND-0001,approval_status,APPROVED + REF-001,MAP-02,Vendor.status,Active,Active,PASS
+Vendor,LEG-A,VND-0042,approval_status,APPROVED; no reference,MAP-02,Vendor.status,Active,Blocked,FAIL
+Material,LEG-B,MAT-0084,vendor_code,VND-0099,MAP-04,Material.vendor_id,Rejected,Rejected,PASS
+Order,LEG-C,PO-0101,order_amount,129.50 USD,MAP-05,PurchaseOrder.amount_usd,129.50,129.50,PASS

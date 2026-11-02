@@ -1,0 +1,7 @@
+evidence_id,synthetic_time,simulated_observation,source_type,confidence,production_verified
+TEAMS-01,09:12,Outside Teams user contacted employee claiming to be help desk,Teams metadata,HIGH contact only,NO—FICTIONAL
+TEAMS-02,09:16,Employee shared desktop after caller requested assistance,Employee interview,MEDIUM,NO—FICTIONAL
+ENDPT-01,09:19,Interactive remote assistance/session recorded,Endpoint event,CONDITIONAL,NO—FICTIONAL
+EDR-01,09:24,Suspicious installer/persistence indicator requiring triage,Endpoint alert,SUSPECTED,NO—FICTIONAL
+ENTRA-01,09:28,Anomalous session and consent event requiring correlation,Identity audit log,UNCONFIRMED,NO—FICTIONAL
+CASE-01,09:35,SOC case opened for triage/containment,Service ticket,ILLUSTRATIVE,NO—FICTIONAL

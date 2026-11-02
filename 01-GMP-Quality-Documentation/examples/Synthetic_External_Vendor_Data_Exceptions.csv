@@ -1,0 +1,4 @@
+Exception_ID,Logged_Date,Material_ID,Source_Value,Expected_Value,Issue,Owner,Status,Material_Status,Notes
+EX-2026-018,2026-11-02,RM-0078,VND-041,VND-014,Vendor ID mismatch,Procurement,OPEN,QUALITY HOLD,Synthetic example; QC review pending
+EX-2026-019,2026-11-02,RM-0112,Rev A,Rev B,Specification version mismatch,QC,OPEN,QUALITY HOLD,Illustrative second case; not linked to CAPA
+EX-2026-020,2026-11-02,RM-0201,10 cartons,10 cartons,No issue,Receiving,VERIFIED,REVIEWED,Illustrative verified receipt only

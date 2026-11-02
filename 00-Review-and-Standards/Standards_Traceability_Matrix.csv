@@ -1,0 +1,15 @@
+Project,Reference,Authority level,Key point,Applied correction,Limit
+GMP,21 CFR 211.22,Binding if in-scope finished drug CGMP,Quality unit procedure/disposition authority,Revised quality unit gate and no deemed approval,Applicability/product-specific review needed
+GMP,21 CFR 211.84,Binding if components within scope,Quarantine until sampled/tested/examined and quality unit release,Explicit hold and supplier CoA limitations,Actual sampling plan is site specific
+GMP,21 CFR 211.180; 211.192,Binding in-scope,Retain quality records; investigate unexplained discrepancies,Evidence trail and quality event linkage,No executed investigation claimed
+GMP,21 CFR Part 11,Conditional electronic record rule,Predicate-rule analysis and controls where applicable,Draft vs approved; no fake e-signatures,No system validation performed
+GMP,FDA Data Integrity 2018,Nonbinding guidance interpreting CGMP,Attributable/legible/contemporaneous/original/accurate evidence,GDP correction guidance and auditability,No site-specific rule asserted
+GMP,ICH Q9(R1)/Q10; May 2026 Q&A,Nonbinding FDA-adopted guidance,Risk-based CAPA/change management and lifecycle,"Added risk, training and effectiveness examples",No certification implied
+UAT,21 CFR Part 11,Only when predicate records within scope,Separate business UAT from regulated validation,Added scope and separate acceptance statements,Fictional ERP not asserted FDA regulated
+UAT,ISO/IEC/IEEE 26514:2022,Voluntary standard,Clear software user information and lifecycle,Better instructions and evidence mapping,Full licensed text not audited
+UAT,IEC/IEEE 82079-1:2019,Voluntary standard,Instructions for use principles,"Step-by-step roles, prerequisites and error states",Full licensed text not audited
+IT,NIST SP 800-61 Rev. 3 (2025),Voluntary federal guidance,Cybersecurity incident response integration,Replaced outdated incident-response conceptual reference,Routine service desk not automatically security incident
+IT,NIST SP 800-53 Rev. 5,Control catalog; applicability depends on entity,IR/AU/AC/CM control families,Added separation of guidance from operational evidence,No implemented-control attestation
+IT,Microsoft Support/Learn,Vendor guidance,Windows 11 commands and safe diagnosis,"Added read-only checks, limits and authorized changes",No live test executed
+All,WCAG 2.2,W3C recommendation; legal obligations depend on context,Color not only status signal,Monochrome status labels and accessible hierarchy,Not a WCAG certification
+All,Visual/format convention,No general FDA-required blue/black PDF scheme,"Black body text, restrained navy headings",Print-friendly styling and draft disclaimers,Paper ink policies may differ by organization

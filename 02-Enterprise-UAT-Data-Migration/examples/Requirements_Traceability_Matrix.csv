@@ -1,0 +1,9 @@
+Requirement ID,Requirement summary,Test case IDs,Document section,Coverage status
+FR-001,Preserve source lineage,TC-001;TC-009,BRD 5; WI 3,Covered
+FR-002,Standardize vendor identifier,TC-001;TC-004,BRD 5; WI 3,Covered
+FR-003,Prevent unapproved vendor association,TC-002;TC-003;TC-008,BRD 5; WI 3,Covered - open defect
+FR-004,Preserve market restrictions,TC-005,BRD 5,Covered
+FR-005,Reconcile order count and amounts,TC-006;TC-007,WI 5,Covered
+FR-006,Capture and disposition exceptions,TC-002;TC-003;TC-010,BRD 7,Covered
+FR-007,Enforce reviewer role permission,TC-008,UAT 5,Covered
+FR-008,Accurate exception dashboard,TC-010,UAT 5,Covered

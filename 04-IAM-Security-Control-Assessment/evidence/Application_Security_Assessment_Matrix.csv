@@ -1,0 +1,8 @@
+system,review_domain,synthetic_gap,owner,reference,status
+Microsoft Teams,external federation / meeting control,F-10/F-11,Teams Admin,Microsoft Learn / NIST AC-3,OPEN—NOT TESTED
+Microsoft Entra ID,authentication / Conditional Access / OAuth consent,F-01/F-13,Identity Security,NIST IA-2 / SP800-63-4,OPEN—NOT TESTED
+Windows/Defender/Intune,remote assistance / app control / response,F-12,Endpoint Security,NIST SI-3 / CM-7,OPEN—NOT TESTED
+SharePoint/OneDrive,external sharing / guest permissions / audit,F-05,M365 Owner,NIST AC-3 / AU-6,OPEN—NOT TESTED
+CRM,app entitlements / audit trails / leavers,F-02/F-03,CRM Owner,NIST AC-2 / AC-6,OPEN—NOT TESTED
+ERP/QMS sandbox,privileged changes / segregation / data integrity,F-03/F-05,System Owner and QA,NIST AC-5; Part11 conditional,OPEN—NOT TESTED
+Ticketing,support verification / incident handoff,F-14,Support Manager,NIST IR-4 / AT-2,OPEN—NOT TESTED

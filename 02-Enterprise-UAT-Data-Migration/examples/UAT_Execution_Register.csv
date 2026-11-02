@@ -1,0 +1,11 @@
+Test Case ID,Requirement ID,Scenario,Build,Expected,Observed,Result,Evidence ID
+TC-001,FR-001;FR-002,Valid approved supplier,stg-0.9.7,Active and lineage stored,Active and lineage stored,PASS,EVID-001
+TC-002,FR-003,Missing approval reference,stg-0.9.7,Blocked and exception,Active/selectable,FAIL,EVID-002
+TC-003,FR-003,Orphan material vendor,stg-0.9.7,Rejected and exception,Rejected and exception,PASS,EVID-003
+TC-004,FR-002,Duplicate supplier,stg-0.9.7,Duplicate cluster,Duplicate cluster,PASS,EVID-004
+TC-005,FR-004,Restricted market,stg-0.9.7,Preserve restriction,Preserved,PASS,EVID-005
+TC-006,FR-005,USD amount reconcile,stg-0.9.7,129.50 USD,129.50 USD,PASS,EVID-006
+TC-007,FR-005,Unsupported currency,stg-0.9.7,Reject invalid,Rejected,PASS,EVID-007
+TC-008,FR-007,Unauthorized approval attempt,stg-0.9.7,Access denied,Access denied,PASS,EVID-008
+TC-009,FR-001,Versioned mapping retest,stg-0.9.8,Version evidenced,Not executed,NOT RUN,
+TC-010,FR-008,Dashboard status counts,stg-0.9.7,Accurate owner counts,Counts match mock register,PASS,EVID-010

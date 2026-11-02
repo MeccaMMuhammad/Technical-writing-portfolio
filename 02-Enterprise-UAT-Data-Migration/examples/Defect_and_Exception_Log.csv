@@ -1,0 +1,4 @@
+Record ID,Linked test,Mapping,Summary,Severity,Owner,Status,Next action
+DEF-002,TC-002,MAP-02,Unapproved supplier VND-0042 incorrectly Active,S1,Data Engineering,OPEN,Correct mapping; retest; assess business exit
+EXC-003,TC-002,MAP-02,Missing VND-0042 approval reference,High,Procurement,OPEN,Obtain signed approval evidence or keep blocked
+EXC-004,TC-003,MAP-04,Material MAT-0084 linked to missing VND-0099,High,QA / Procurement,IN REVIEW,Resolve authoritative vendor reference

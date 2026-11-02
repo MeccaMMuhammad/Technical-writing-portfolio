@@ -1,0 +1,5 @@
+application_id,sample_role,attestation,risk,follow_up,synthetic
+APP-01,Business application,Signed,Low,No open action,YES
+APP-02,Business application,Signed,Low,No open action,YES
+APP-03,Business application,Missing,Moderate,App owner approval and role check,YES
+APP-04,Business application,Missing,Moderate,App owner approval and role check,YES

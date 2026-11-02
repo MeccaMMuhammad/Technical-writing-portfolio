@@ -1,0 +1,14 @@
+Project,Document,Domain,Status,Unique checks,Review topics,PDF pages,PDF extractable characters
+01-GMP-Quality-Documentation,01_Controlled_Document_Lifecycle_SOP.docx,GMP,Revised + appended document-specific review,3,Control SOP scope; Training / change; Data integrity,8,22282
+01-GMP-Quality-Documentation,02_Vendor_and_Incoming_Material_Data_Review.docx,GMP,Revised + appended document-specific review,3,Supplier verification; Quality-unit disposition; Material change,6,17694
+01-GMP-Quality-Documentation,03_Investigation_and_CAPA_Case_Study.docx,GMP,Revised + appended document-specific review,3,Evidence chain; CAPA decision; Release decision,6,15511
+01-GMP-Quality-Documentation,04_Forms_and_Quality_Review_Toolkit.docx,GMP,Revised + appended document-specific review,3,Form controls; Change/exception linkage; Review checklist,5,13226
+02-Enterprise-UAT-Data-Migration,01_Business_Requirements_and_Process_Design.docx,UAT,Revised + appended document-specific review,3,Scope/requirements; Security and records; Approval,6,15246
+02-Enterprise-UAT-Data-Migration,02_Source_to_Target_Data_Mapping.docx,UAT,Revised + appended document-specific review,3,Mapping provenance; Reconciliation acceptance; Change traceability,5,14519
+02-Enterprise-UAT-Data-Migration,03_User_Acceptance_Test_Plan.docx,UAT,Revised + appended document-specific review,3,Test design; Release governance; Test versus validation,5,14083
+02-Enterprise-UAT-Data-Migration,04_Defect_Triage_and_Corrective_Action_Case.docx,UAT,Revised + appended document-specific review,3,Reproducibility; Cause vs effect; Closed-loop test,5,12425
+02-Enterprise-UAT-Data-Migration,05_End_User_Guide_and_Knowledge_Base.docx,UAT,Revised + appended document-specific review,3,Audience; Accuracy; Escalation / documentation,5,12963
+03-IT-Technical-SOP,01_IT_Network_Incident_Triage_SOP.docx,IT,Revised + appended document-specific review,3,Incident classification; Network triage; Closure,7,20889
+03-IT-Technical-SOP,02_Windows_Troubleshooting_Runbook.docx,IT,Revised + appended document-specific review,3,Command interpretation; Change authorization; Security red flags,5,13206
+03-IT-Technical-SOP,03_Documentation_Validation_Checklist.docx,IT,Revised + appended document-specific review,3,Technical review; Accessibility / design; Version and control,4,10126
+04-IAM-Security-Control-Assessment,IAM_Security_Control_Assessment_and_Remediation_Plan.docx,IAM,Revised + appended document-specific review,4,Teams threat chain; Review multiple systems; Current federal guidance; Remediation proof,13,42428

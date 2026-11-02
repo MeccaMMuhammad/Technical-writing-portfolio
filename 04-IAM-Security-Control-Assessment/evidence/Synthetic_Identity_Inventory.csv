@@ -1,0 +1,139 @@
+sample_identity_id,identity_type,status,role,owner_state,MFA_state,access_review_state,illustrative_only
+ID-001,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-002,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-003,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Review pending,YES
+ID-004,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Review pending,YES
+ID-005,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-006,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-007,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-008,Workforce,Enabled,Privileged,Documented,Phishing-resistant,Sampled,YES
+ID-009,Workforce,Enabled,Privileged,Documented,Other MFA,Sampled,YES
+ID-010,Workforce,Enabled,Privileged,Documented,Other MFA,Sampled,YES
+ID-011,Workforce,Enabled,Privileged,Documented,Other MFA,Sampled,YES
+ID-012,Workforce,Enabled,Privileged,Documented,Other MFA,Sampled,YES
+ID-013,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-014,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-015,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-016,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-017,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-018,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-019,Workforce,Enabled,Employee,Documented,Enrolled,Review pending,YES
+ID-020,Workforce,Enabled,Employee,Documented,Enrolled,Review pending,YES
+ID-021,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-022,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-023,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-024,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-025,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-026,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-027,Workforce,Enabled,Employee,Missing/unknown,Enrolled,Sampled,YES
+ID-028,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-029,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-030,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-031,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-032,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-033,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-034,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-035,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-036,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-037,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-038,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-039,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-040,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-041,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-042,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-043,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-044,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-045,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-046,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-047,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-048,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-049,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-050,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-051,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-052,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-053,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-054,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-055,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-056,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-057,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-058,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-059,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-060,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-061,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-062,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-063,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-064,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-065,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-066,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-067,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-068,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-069,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-070,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-071,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-072,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-073,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-074,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-075,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-076,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-077,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-078,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-079,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-080,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-081,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-082,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-083,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-084,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-085,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-086,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-087,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-088,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-089,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-090,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-091,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-092,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-093,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-094,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-095,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-096,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-097,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-098,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-099,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-100,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-101,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-102,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-103,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-104,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-105,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-106,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-107,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-108,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-109,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-110,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-111,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-112,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-113,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-114,Workforce,Enabled,Employee,Documented,Enrolled,Sampled,YES
+ID-115,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-116,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-117,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-118,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-119,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-120,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-121,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-122,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-123,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-124,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-125,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-126,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-127,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+ID-128,Workforce,Enabled,Employee,Documented,Not enrolled,Sampled,YES
+SVC-01,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Review pending,YES
+SVC-02,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Review pending,YES
+SVC-03,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Review pending,YES
+SVC-04,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-05,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-06,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-07,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-08,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-09,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
+SVC-10,Service,Enabled,Nonhuman automation,Documented,Not applicable - service identity,Sampled,YES
