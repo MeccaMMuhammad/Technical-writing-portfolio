@@ -1,0 +1,13 @@
+asset_id,title,category,keywords,owner,last_review,status,language,type
+LIB-001,Access a public-service account,Account,account sign-in login,Digital Support,2026-09-04,Current,English and Spanish,Help article
+LIB-002,Request an appointment,Appointments,schedule book time,Service Operations,2026-06-12,Current,English,Guide
+LIB-003,Replace an identification document,Identity,replace lost ID identification,Identity Operations,2025-02-17,Stale,English,FAQ
+LIB-004,Complete an eligibility form,Forms,eligibility apply form,Program Operations,2026-08-20,Current,English,Form
+LIB-005,Application status lookup,Applications,track application status,Application Support,2026-07-07,Current,English,Help article
+LIB-006,What to bring to an appointment,Appointments,documents checklist,Service Operations,2024-09-30,Stale,English,Checklist
+LIB-007,Appointment booking instructions,Appointments,schedule book time,Service Operations,2025-07-07,Duplicate,English,Guide
+LIB-008,Update contact information,Account,address email phone,Digital Support,2026-08-11,Current,English,FAQ
+LIB-009,Public information poster (print),Outreach,poster signage print,Communications,2026-05-22,Current,English,Poster
+LIB-010,Accessibility contact and feedback,Accessibility,accessibility accommodation feedback,Accessibility Team,2026-10-03,Current,English,Help article
+LIB-011,Application eligibility guide,Applications,eligibility apply form,Program Operations,2025-04-15,Stale,English,Guide
+LIB-012,Frequently asked questions – account,Account,FAQ password access,Digital Support,2026-09-10,Current,English,FAQ

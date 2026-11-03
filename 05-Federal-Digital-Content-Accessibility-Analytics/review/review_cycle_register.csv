@@ -1,0 +1,5 @@
+request_id,asset_id,reviewer_role,review_type,decision,due_date,note
+CR-101,LIB-007,Scheduling SME,Accuracy,Needs consolidation,2026-11-12,Synthetic review decision
+CR-102,LIB-003,Identity SME,Policy validity,Update required,2026-11-14,Synthetic decision; verify approved source
+CR-103,LIB-004,Accessibility Reviewer,Form accessibility,Await test,2026-11-18,No actual Section 508 testing completed
+CR-104,LIB-002,Web Team,Redirect and search,Pending,2026-11-20,Validate after approved change

@@ -1,0 +1,49 @@
+feedback_id,month,theme,sentiment,normalized_comment,satisfaction_score_1_to_5,note
+FB-01-001,2026-07,Navigation,negative,Could not find replacement ID instructions,2.7,Synthetic example; no personal identifiers
+FB-01-002,2026-07,Accessibility,negative,PDF form field labels unclear,3.3,Synthetic example; no personal identifiers
+FB-01-003,2026-07,Navigation,negative,Search returned too many old appointment pages,2.5,Synthetic example; no personal identifiers
+FB-01-004,2026-07,Forms,negative,Eligibility form instructions are confusing,4.0,Synthetic example; no personal identifiers
+FB-01-005,2026-07,Timeliness,positive,Appointment page was accurate,2.6,Synthetic example; no personal identifiers
+FB-01-006,2026-07,Content,positive,Account reset guidance was clear,3.4,Synthetic example; no personal identifiers
+FB-01-007,2026-07,Navigation,negative,Menu categories were unclear,4.2,Synthetic example; no personal identifiers
+FB-01-008,2026-07,Accessibility,negative,Could use larger text on a mobile device,3.0,Synthetic example; no personal identifiers
+FB-01-009,2026-07,Timeliness,negative,Office hour information needs update,4.3,Synthetic example; no personal identifiers
+FB-01-010,2026-07,Content,positive,Found the requested checklist,3.8,Synthetic example; no personal identifiers
+FB-01-011,2026-07,Forms,negative,Downloaded form had unclear required fields,3.4,Synthetic example; no personal identifiers
+FB-01-012,2026-07,Content,positive,Help article resolved login question,3.5,Synthetic example; no personal identifiers
+FB-02-001,2026-08,Navigation,negative,Could not find replacement ID instructions,3.4,Synthetic example; no personal identifiers
+FB-02-002,2026-08,Accessibility,negative,PDF form field labels unclear,2.9,Synthetic example; no personal identifiers
+FB-02-003,2026-08,Navigation,negative,Search returned too many old appointment pages,4.4,Synthetic example; no personal identifiers
+FB-02-004,2026-08,Forms,negative,Eligibility form instructions are confusing,3.0,Synthetic example; no personal identifiers
+FB-02-005,2026-08,Timeliness,positive,Appointment page was accurate,4.4,Synthetic example; no personal identifiers
+FB-02-006,2026-08,Content,positive,Account reset guidance was clear,4.1,Synthetic example; no personal identifiers
+FB-02-007,2026-08,Navigation,negative,Menu categories were unclear,2.2,Synthetic example; no personal identifiers
+FB-02-008,2026-08,Accessibility,negative,Could use larger text on a mobile device,2.7,Synthetic example; no personal identifiers
+FB-02-009,2026-08,Timeliness,negative,Office hour information needs update,3.2,Synthetic example; no personal identifiers
+FB-02-010,2026-08,Content,positive,Found the requested checklist,4.0,Synthetic example; no personal identifiers
+FB-02-011,2026-08,Forms,negative,Downloaded form had unclear required fields,2.5,Synthetic example; no personal identifiers
+FB-02-012,2026-08,Content,positive,Help article resolved login question,3.5,Synthetic example; no personal identifiers
+FB-03-001,2026-09,Navigation,negative,Could not find replacement ID instructions,2.9,Synthetic example; no personal identifiers
+FB-03-002,2026-09,Accessibility,negative,PDF form field labels unclear,3.9,Synthetic example; no personal identifiers
+FB-03-003,2026-09,Navigation,negative,Search returned too many old appointment pages,4.2,Synthetic example; no personal identifiers
+FB-03-004,2026-09,Forms,negative,Eligibility form instructions are confusing,3.9,Synthetic example; no personal identifiers
+FB-03-005,2026-09,Timeliness,positive,Appointment page was accurate,2.5,Synthetic example; no personal identifiers
+FB-03-006,2026-09,Content,positive,Account reset guidance was clear,3.8,Synthetic example; no personal identifiers
+FB-03-007,2026-09,Navigation,negative,Menu categories were unclear,3.1,Synthetic example; no personal identifiers
+FB-03-008,2026-09,Accessibility,negative,Could use larger text on a mobile device,4.0,Synthetic example; no personal identifiers
+FB-03-009,2026-09,Timeliness,negative,Office hour information needs update,3.2,Synthetic example; no personal identifiers
+FB-03-010,2026-09,Content,positive,Found the requested checklist,4.2,Synthetic example; no personal identifiers
+FB-03-011,2026-09,Forms,negative,Downloaded form had unclear required fields,4.4,Synthetic example; no personal identifiers
+FB-03-012,2026-09,Content,positive,Help article resolved login question,4.0,Synthetic example; no personal identifiers
+FB-04-001,2026-10,Navigation,negative,Could not find replacement ID instructions,4.0,Synthetic example; no personal identifiers
+FB-04-002,2026-10,Accessibility,negative,PDF form field labels unclear,4.0,Synthetic example; no personal identifiers
+FB-04-003,2026-10,Navigation,negative,Search returned too many old appointment pages,3.5,Synthetic example; no personal identifiers
+FB-04-004,2026-10,Forms,negative,Eligibility form instructions are confusing,2.5,Synthetic example; no personal identifiers
+FB-04-005,2026-10,Timeliness,positive,Appointment page was accurate,4.4,Synthetic example; no personal identifiers
+FB-04-006,2026-10,Content,positive,Account reset guidance was clear,3.2,Synthetic example; no personal identifiers
+FB-04-007,2026-10,Navigation,negative,Menu categories were unclear,2.1,Synthetic example; no personal identifiers
+FB-04-008,2026-10,Accessibility,negative,Could use larger text on a mobile device,3.1,Synthetic example; no personal identifiers
+FB-04-009,2026-10,Timeliness,negative,Office hour information needs update,3.1,Synthetic example; no personal identifiers
+FB-04-010,2026-10,Content,positive,Found the requested checklist,2.6,Synthetic example; no personal identifiers
+FB-04-011,2026-10,Forms,negative,Downloaded form had unclear required fields,4.3,Synthetic example; no personal identifiers
+FB-04-012,2026-10,Content,positive,Help article resolved login question,2.4,Synthetic example; no personal identifiers

@@ -1,0 +1,11 @@
+ID,Project artifact,Official authority/guidance,Review requirement,Evidence in package,Completion/evidence status
+A01,Content audit,OMB M-23-22 / 21st Century IDEA,"Federal digital navigation, design governance",Document 01 addendum; inventory,Synthetic analysis; real implementation unverified
+A02,Content publishing SOP,NARA managing web records,Preservation before retirement and disposition by approved schedule,Document 02 addendum,Draft guidance; no approved records schedule
+A03,Content publishing SOP,Section 508 E205 / authoring guidance,Accessibility gate and reviewer evidence,Document 02 addendum,Not formally tested
+A04,Accessibility assessment,Section 508 E205.2/E205.3/E205.4,Web and non-web scope differentiation,Document 03 addendum; findings register,Test planning only
+A05,Accessibility assessment,ICT Document Baseline v1.0 / DHS Trusted Tester,Different methods for Office/PDF vs web,Document 03 addendum,No certified Trusted Tester results
+A06,Analytics report,PRA / agency privacy policy,Conditional review before public collection,Document 04 addendum,No real respondents
+A07,Analytics report,NARA web records guidance,Retention/disposition and approval,Document 04 addendum,No actual retention schedule
+A08,Resource finder,WCAG 2.0 A/AA / WCAG 2.2 supplemental,"Labels, keyboard, focus, zoom, contrast and announcement",Document 05 addendum; toolkit files,"Code patterns shown, browser/AT tests pending"
+A09,Excel workbook,Federal Excel authoring guidance,"Workbook structure, navigation, tables and non-color indicators",Accessibility findings A11Y-06,Manual accessibility test pending
+A10,PDF/DOCX,Federal PDF/Word guidance,"Semantic structure, PDF tags and reading order",Accessibility findings A11Y-04/05,Full conformance unverified
