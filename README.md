@@ -2,6 +2,16 @@
 
 Fictional, synthetic writing samples that demonstrate SOP drafting, regulated-record handling, data migration/UAT documentation, network troubleshooting, and IAM security assessment. **No procedures are approved, executed or certified compliant.**
 
+## Featured Project — Federal Digital Content, Accessibility & Analytics
+
+A fictional federal-style technical writing case study demonstrating content audits, SOP development, Section 508 accessibility assessment methodology, information architecture, synthetic web analytics, and an interactive HTML/CSS/JavaScript resource finder.
+
+**Deliverables:** Five technical documents (PDF and Word), an Excel dashboard, synthetic datasets, an accessibility findings register, and a working web prototype.
+
+[Explore Project 5](05-Federal-Digital-Content-Accessibility-Analytics/README.md)
+
+*All materials are fictional demonstrations. Formal accessibility certification and manual assistive-technology testing have not been completed.*
+
 ## GMP: 01 GMP Quality Documentation
 
 - **01 Controlled Document Lifecycle SOP** — [Read PDF](01-GMP-Quality-Documentation/documents/01_Controlled_Document_Lifecycle_SOP.pdf) · [Editable Word](01-GMP-Quality-Documentation/documents/01_Controlled_Document_Lifecycle_SOP.docx)
